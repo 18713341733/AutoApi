@@ -1,0 +1,7 @@
+-----------用例运行失败：报警-----------
+用例标题：${case_title}
+用例描述：${case_desc}
+用例 ID：${case_id}
+owner：${case_owner}
+检查点：${case_cps}
+失败原因：${failure_msg}

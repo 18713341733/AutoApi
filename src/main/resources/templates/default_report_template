@@ -1,0 +1,7 @@
+-----------用例运行结果：报告-----------
+成功数：${success_count}
+失败数：${failure_count}
+总数：${total_count}
+开始时间：${start_time}
+结束时间：${end_time}
+失败原因：${failure_msg}

@@ -1,0 +1,10 @@
+- chanId: 1111
+  order:
+    id: 6666
+    orderId: "o112"
+    amount: 1234.56
+- chanId: 2222
+  order:
+    id: 7777
+    orderId: "abc"
+    amount: 222.56
